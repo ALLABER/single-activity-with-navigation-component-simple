@@ -1,4 +1,4 @@
-package com.allaber.single.presentation.ui.activity
+package com.allaber.single.presentation.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
